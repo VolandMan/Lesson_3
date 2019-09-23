@@ -1,0 +1,11 @@
+C:\Users\SV\Desktop\Chislo\KolNum\KolNum\obj\Debug\netcoreapp2.1\KolNum.csprojAssemblyReference.cache
+C:\Users\SV\Desktop\Chislo\KolNum\KolNum\obj\Debug\netcoreapp2.1\KolNum.csproj.CoreCompileInputs.cache
+C:\Users\SV\Desktop\Chislo\KolNum\KolNum\obj\Debug\netcoreapp2.1\KolNum.AssemblyInfoInputs.cache
+C:\Users\SV\Desktop\Chislo\KolNum\KolNum\obj\Debug\netcoreapp2.1\KolNum.AssemblyInfo.cs
+C:\Users\SV\Desktop\Chislo\KolNum\KolNum\bin\Debug\netcoreapp2.1\KolNum.deps.json
+C:\Users\SV\Desktop\Chislo\KolNum\KolNum\bin\Debug\netcoreapp2.1\KolNum.runtimeconfig.json
+C:\Users\SV\Desktop\Chislo\KolNum\KolNum\bin\Debug\netcoreapp2.1\KolNum.runtimeconfig.dev.json
+C:\Users\SV\Desktop\Chislo\KolNum\KolNum\bin\Debug\netcoreapp2.1\KolNum.dll
+C:\Users\SV\Desktop\Chislo\KolNum\KolNum\bin\Debug\netcoreapp2.1\KolNum.pdb
+C:\Users\SV\Desktop\Chislo\KolNum\KolNum\obj\Debug\netcoreapp2.1\KolNum.dll
+C:\Users\SV\Desktop\Chislo\KolNum\KolNum\obj\Debug\netcoreapp2.1\KolNum.pdb
